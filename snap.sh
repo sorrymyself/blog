@@ -1,7 +1,7 @@
 ﻿#!/bin/bash
 cd /root/snap2html/DiogenesList-master/
 python /root/snap2html/DiogenesList-master/diogeneslist.py /root/01 index
-#sed -i "s#\[LINK ROOT\]#https://p.newo.cf#g"  /root/snap2html/DiogenesList-master/index.html
+#sed -i "s#\[LINK ROOT\]#http://p.newo.cf#g"  /root/snap2html/DiogenesList-master/index.html
 #sed -i "s#\[LINK PROTOCOL\]##g"  /root/snap2html/DiogenesList-master/index.html
 #sed -i "s#\[SOURCE ROOT\]##g"  /root/snap2html/DiogenesList-master/index.html
 #sed -i "s#\\\\\\\root\\\\\\\01##g"  /root/snap2html/DiogenesList-master/index.html
