@@ -1,10 +1,10 @@
-!/bin/bash
+﻿!/bin/bash
 
 cd /root/snap2html/DiogenesList-master/
 
 python /root/snap2html/DiogenesList-master/diogeneslist.py /root/mark index
 
-#sed -i "s#\[LINK ROOT\]#https://td.naso.#g"  /root/snap2html/DiogenesList-master/index.html
+#sed -i "s#\[LINK ROOT\]#https://su.marktd.workers.dev/#g"  /root/snap2html/DiogenesList-master/index.html
 
 #sed -i "s#\[LINK PROTOCOL\]##g"  /root/snap2html/DiogenesList-master/index.html
 
