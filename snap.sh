@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /root/snap2html/DiogenesList-master/
-python /root/snap2html/DiogenesList-master/diogeneslist.py /root/cloudflare index
+python /root/snap2html/DiogenesList-master/diogeneslist.py /root/00 index
 #sed -i "s#\[LINK ROOT\]#https://su.marktd.workers.dev/#g"  /root/snap2html/DiogenesList-master/index.html
 #sed -i "s#\[LINK PROTOCOL\]##g"  /root/snap2html/DiogenesList-master/index.html
 #sed -i "s#\[SOURCE ROOT\]##g"  /root/snap2html/DiogenesList-master/index.html
