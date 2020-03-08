@@ -12,3 +12,6 @@ cd /root/snapGit
 git add .
 git commit -m 'snap2htmlDailyUpdate'
 git push https://github.com/ticn/snap2html.git
+git branch --set-upstream master origin/master
+git push origin master
+git pull origin master
